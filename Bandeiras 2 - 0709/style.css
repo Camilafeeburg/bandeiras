@@ -1,0 +1,178 @@
+.bandeira{
+    width: 600px;
+    height: 420px;
+    border: 1px solid black;
+    display: block;
+    float: left;
+    margin: 10px;
+}
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.corAzul{
+    background-color: rgb(7, 7, 179);
+}
+.corBranco{
+    background-color: white;
+}
+.corVermelho{
+    background-color: red;
+}
+
+.lin3{
+    width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+.bola{
+    width: 210px;
+    height: 210px;
+    border-radius: 100%;
+    display: block;
+    float: left;
+    margin-left: 185px;
+    margin-top: 105px;
+    border: 1px solid black;
+}
+.lisHor{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+.lisVert{
+    width: 100px;
+    height: 420px;
+    position: relative;
+    top: -100px;
+    left: 150px;
+}
+.lisHor{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+.lisVert{
+    width: 100px;
+    height: 420px;
+    position: relative;
+    top: -100px;
+    left: 150px;
+}
+
+.lisHor{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+.lisVert{
+    width: 100px;
+    height: 420px;
+    position: relative;
+    top: -100px;
+    left: 150px;
+}
+.bandeiraQuadrada{
+    height: 420px;
+    width: 420px;
+    display: block;
+    float: left;
+    border: 1px solid black;
+    margin: 10px; 
+}
+#lisHorSuica{
+    height: 65px;
+    width: 250px;
+    left: 80px;
+    top: 175px;
+    
+}
+#lisVertSuica{
+    height: 250px;
+    width: 65px;
+    left: 170px;
+    top: 20px;
+}
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.corAzul1{
+    background-color: rgb(30, 30, 104);
+}
+.corBranco{
+    background-color: rgb(206, 185, 0);
+}
+.corVermelho{
+    background-color: red;
+}
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.lin3{
+    width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+.corBranco{
+    background-color: white;
+}
+.corVerde1{
+    background-color: rgb(68, 139, 88);
+} 
+.corVermelho{
+    background-color: rgb(240, 6, 6);
+}
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.corVerde1{
+    background-color: rgb(68, 139, 88);
+} 
+.corVermelho{
+    background-color: rgb(240, 6, 6);
+}
+.corAmarelo{
+    background-color: rgb(247, 210, 6);
+}
+
+.corVerde{
+    background-color: rgb(64, 112, 32);
+}
+
+.corAzul{
+    background-color: rgb(7, 7, 179);
+}
+.corBranco{
+    background-color: white;
+}
+.corVermelho{
+    background-color: red;
+}
+.corPreto{
+    background-color: black;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+.corLaranja{
+    background-color: orange;
+}

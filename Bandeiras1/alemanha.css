@@ -1,0 +1,23 @@
+#caixa{
+    background-color: rgb(255, 255, 255);
+    width: 1800px;
+    height: 450px;
+}
+#caixa1{
+    background-color: rgb(0, 0, 0);
+    width: 600px;
+    height: 150px;
+    display: block;
+}
+#caixa2{
+    background-color: brown;
+    width: 600px;
+    height: 150px;
+    display: block;
+}
+#caixa3{
+    background-color: yellow;
+    width: 600px;
+    height: 150px;
+    display: block;
+}
